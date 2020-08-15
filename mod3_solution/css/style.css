@@ -1,0 +1,33 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+    background-color: #f6b319;
+    border-radius: 0;
+    border:0;
+}
+
+.navbar-toggler{
+    float: right;
+
+}
+#header-nav div.navbar-collapse{
+   margin-bottom: -8px;
+}
+
+.navbar{
+    padding: 0;
+}
+
+@media(max-width:576px)
+{
+    #chicken{
+        margin-left: 30px;
+        margin-right: 30px;
+        width: auto;
+    }
+}
